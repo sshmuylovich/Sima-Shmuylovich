@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is my CV as of March 2024:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sima Shmuylovich",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi!\nMy name is Sima Shmuylovich and I am a third-year student at the University of Toronto, St. George Campus. I am pursuing an Honors Bachelor of Science Degree in Computer Science with Minors Mathematics and Statistics."
   }
 ]

@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+![](Sima.jpg){fig-align="left" width="300"}
 
-```{r}
-1 + 1
-```
+Hi!
+
+My name is Sima Shmuylovich and I am a third-year student at the University of Toronto, St. George Campus. I am pursuing an Honors Bachelor of Science Degree in Computer Science with Minors Mathematics and Statistics.

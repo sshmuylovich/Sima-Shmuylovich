@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+Here is my CV as of March 2024:
+
+![](CV%20STA302.pdf){fig-align="center" width="8in" height="10in"}

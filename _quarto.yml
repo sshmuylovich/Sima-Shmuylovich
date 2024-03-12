@@ -6,9 +6,10 @@ website:
   title: "Sima Shmuylovich"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
